@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.flymantou.ljytemplates.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.flymantou.ljytemplates.MyBundle
 
 class MyApplicationService {
 
